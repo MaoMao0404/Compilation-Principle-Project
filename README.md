@@ -113,19 +113,19 @@ Stree|	stack<string>|	语法树栈
 
 
 ## 测试结果
-文法规则读取并处理：
-![Alt text](image-3.png)
-去除左递归：
- ![Alt text](image-4.png)
-去除多余项：
-![Alt text](image-5.png)
-去除左公因子：
- ![Alt text](image-6.png)
-处理后文法：
-![Alt text](image-7.png)
-生成first集合和follow集合
-![Alt text](image-8.png)
-LL(1)分析表：
-![Alt text](image-9.png)
-语法树：
-![Alt text](image-10.png)
+文法规则读取并处理：  
+![Alt text](image-3.png)  
+去除左递归：  
+ ![Alt text](image-4.png)  
+去除多余项：  
+![Alt text](image-5.png)  
+去除左公因子：  
+ ![Alt text](image-6.png)  
+处理后文法：   
+![Alt text](image-7.png)  
+生成first集合和follow集合  
+![Alt text](image-8.png)  
+LL(1)分析表：  
+![Alt text](image-9.png)  
+语法树：  
+![Alt text](image-10.png)  
